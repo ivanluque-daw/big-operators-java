@@ -1,4 +1,4 @@
-package org.example.ejercicio5;
+package org.big_operators_java.ejercicio5;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

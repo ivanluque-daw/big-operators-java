@@ -1,4 +1,4 @@
-package org.example.ejercicio1;
+package org.big_operators_java.ejercicio1;
 
 import java.math.BigInteger;
 

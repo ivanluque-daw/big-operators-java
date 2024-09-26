@@ -1,4 +1,4 @@
-package org.example.ejercicio4;
+package org.big_operators_java.ejercicio4;
 
 import java.math.BigDecimal;
 
