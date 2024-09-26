@@ -84,3 +84,7 @@ public class Order {
         this.lineItems = lineItems;
     }
 }
+
+enum OrderStatus {
+    New, Hold, Shipped, Delivered, Closed
+}

@@ -44,3 +44,7 @@ public class WebUser {
         this.customer = customer;
     }
 }
+
+enum UserState {
+    New, Active, Blocked, Banned
+}
